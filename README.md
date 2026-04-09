@@ -1,4 +1,7 @@
 # PlagScan — University Plagiarism Detection System
+<img width="1835" height="739" alt="image" src="https://github.com/user-attachments/assets/f44c0ef3-3032-4561-b44f-391237ea1e9a" />
+
+
 
 ## Quick Start
 
@@ -30,6 +33,7 @@ plagiarism_detector/
 ├── file1.txt          # Sample reference document
 └── file2.txt          # Sample suspect document
 ```
+<img width="1139" height="503" alt="image" src="https://github.com/user-attachments/assets/17b019c0-8a34-4f6e-91dc-e5dc35660bf9" />
 
 ## Algorithm
 1. **Preprocess** — lowercase + strip punctuation/whitespace
